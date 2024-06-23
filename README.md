@@ -4,4 +4,3 @@ Welcome to my GitHub profile! I'm an incoming freshman at the University of Texa
 
 I'm eager to further hone my skills in these areas and delve into new facets of computer science during my academic journey. Feel free to explore my repositories to see some of my past work. Let's connect and learn together!
 
-[![Anish's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnishK05)](https://github.com/anuraghazra/github-readme-stats)
