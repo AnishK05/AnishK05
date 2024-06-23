@@ -6,6 +6,10 @@ I'm eager to further hone my skills in these areas and delve into new facets of 
 
 ---
 
+## Contact
+
+[![Gmail](https://img.shields.io/badge/anishkalra05-D14836?&logo=gmail&logoColor=white)](mailto:anishkalra05@gmail.com)
+
 ## Languages and Tools
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -34,7 +38,3 @@ I'm eager to further hone my skills in these areas and delve into new facets of 
 ![Scikit](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-
-## Stats
-
-[![Anish's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnishK05)](https://github.com/anuraghazra/github-readme-stats)
