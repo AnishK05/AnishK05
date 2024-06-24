@@ -6,10 +6,6 @@ I'm eager to further hone my skills in these areas and delve into new facets of 
 
 ---
 
-## Contact
-
-[![Gmail](https://img.shields.io/badge/anishkalra05-D14836?&logo=gmail&logoColor=white)](mailto:anishkalra05@gmail.com)
-
 ## Tools
 
 ### Languages
