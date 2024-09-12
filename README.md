@@ -1,6 +1,6 @@
 # Hi there, I'm Anish Kalra! 👋
 
-Welcome to my GitHub profile! I'm a freshman at the University of Texas at Austin, majoring in Computer Science. My projects span full stack development, machine learning, computer vision, natural language processing, data structures and algorithms, modeling, video game development, and mobile app development.
+Welcome to my GitHub profile! I'm a sophomore at the University of Texas at Austin, majoring in Computer Science. My projects span full stack development, machine learning, computer vision, natural language processing, data structures and algorithms, modeling, video game development, and mobile app development.
 
 I'm eager to further hone my skills in these areas and delve into new facets of computer science during my academic journey. Feel free to explore my repositories to see some of my past work. Let's connect and learn together!
 
