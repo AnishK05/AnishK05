@@ -61,4 +61,4 @@ I'm eager to further hone my skills in these areas and delve into new facets of 
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 
 ## Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=AnishK05&theme=neon-palenight)](https://git.io/streak-stats)
+
