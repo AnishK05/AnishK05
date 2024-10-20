@@ -59,6 +59,3 @@ I'm eager to further hone my skills in these areas and delve into new facets of 
 ![Scikit](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-
-## Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=AnishK05&theme=neon-dark)](https://git.io/streak-stats)
