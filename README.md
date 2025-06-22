@@ -2,7 +2,7 @@
 
 Hi! I'm Anish Kalra, a rising sophomore at UT Austin majoring in Computer Science. My past experience and current interests include full stack and mobile app development, machine learning, AI & LMMs, computer vision, natural language processing, and data visualization. I'm always looking to meet new people and connect, so feel free to reach out at anishkalra05@gmail.com or anishkalra05@utexas.edu!
 
-A few of my hobbies include: basketball, wildlife photography, and stand-up comedy.
+A few of my hobbies include: basketball, wildlife photography, and stand-up comedy. 
 
 ---
 
