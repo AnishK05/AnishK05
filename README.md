@@ -2,7 +2,7 @@
 
 Hi! I’m Anish Kalra, a Computer Science major with a Business minor at UT Austin. I’m interested in software engineering, AI/ML, agentic AI, and startups, and I’m looking for Summer 2026 internships. Always happy to connect — reach me at anishkalra05@gmail.com.
 
-Check out my portfolio [here](https://anishkalra.vercel.app/)
+Check out my portfolio ![here](https://anishkalra.vercel.app/)
 
 ---
 
