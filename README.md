@@ -1,6 +1,6 @@
 # Hi there, I'm Anish Kalra! 👋
 
-Hi! I’m Anish Kalra, a Computer Science major with a Business minor at UT Austin. I’m interested in software engineering, agentic AI, AI/ML, robotics, and startups. Always happy to connect — reach me at anishkalra05@gmail.com.
+Hi! I’m Anish Kalra, a Computer Science major with a Business minor at UT Austin. I’m interested in software engineering, agentic AI, AI/ML, robotics, and startups. Always happy to connect, reach me at anishkalra05@gmail.com.
 
 Check out my portfolio [here](https://anishkalra.com/)!
 
@@ -36,7 +36,6 @@ Check out my portfolio [here](https://anishkalra.com/)!
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 
 ### Database & Cloud
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -57,8 +56,8 @@ Check out my portfolio [here](https://anishkalra.com/)!
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### AI
-![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Development Tools
