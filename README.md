@@ -1,5 +1,5 @@
-# Hi there, I'm Anish Kalra! 👋
+Hi there, I'm Anish! 👋
 
-Hi! I’m Anish Kalra, a Computer Science major with a Business minor at UT Austin. I’m interested in software engineering, agentic AI, AI/ML, robotics, and startups. Always happy to connect, reach me at anishkalra05@gmail.com.
+Glad you found your way here, thanks for stumbling along! I'm a Computer science student at UT Austin. Currently working on scalable backend systems, agentic AI, and owning products from infra to UI. Feel free to take a look around.
 
-Check out my portfolio [here](https://anishkalra.com/)
+[anishkalra.com](https://anishkalra.com)
